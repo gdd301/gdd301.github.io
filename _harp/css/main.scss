@@ -1,0 +1,237 @@
+@import "reset.scss";
+@import "colors.scss";
+@import "typography.scss";
+@import "layout.scss";
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: $background;
+  font-family: Lato;
+  color: $body-text;
+}
+p {
+  margin: 0 0 1em 0;
+  padding: 0;
+  line-height: 1.2em;
+  &:last-of-type {
+    margin: 0;
+  }
+}
+a {
+  color: $primary-blue;
+  text-decoration: none;
+  &:hover{
+    color: lighten($primary-blue, 10%);
+    text-decoration: underline;
+  }
+}
+h1 {
+  font-size: 2em;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+  //text-transform: uppercase;
+  & + p {
+    margin-top: 1em;
+  }
+}
+small {
+  font-size: 0.85em;
+  color: $dark-gray;
+  & + p {
+    margin-top: 1em;
+  }
+}
+.switch-wrapper {
+  font-size: 0.85em;
+  background-color: $body-text;
+  font-weight: 300;
+  a {
+    color: $middle-gray;
+    text-decoration: none;
+    display: inline-block;
+    &.active {
+      color: $white;
+      font-weight: 400;
+      border-bottom: 2px solid $white;
+    }
+    &:hover {
+      color: $white;
+    }
+  }
+}
+.switch-hats {
+  float: left;
+  display: inline-block;
+  a {
+    margin-right: 2em;
+    padding: 0.6em 0;
+  }
+}
+.account-actions {
+  display: inline-block;
+  float: right;
+  a {
+    margin-left: 1em;
+    padding: 0.6em 0;
+  }
+}
+.topbar {
+  display: block;
+  text-align: left;
+  padding: 20px 0;
+  text-align: center;
+  position: relative;
+  z-index: 12;
+  background: $white;
+  height: 60px;
+}
+.container {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
+.clearfix:after {
+    content: ' ';
+    display: table;
+    clear: both;
+}
+.mom-logo {
+  float: left;
+  display: inline-block;
+  text-indent: -2000em;
+  width: 130px;
+  background: url(../assets/mom-logo-color.svg);
+  background-repeat: no-repeat;
+  background-size: auto 60px;
+  height: 60px;
+}
+.gov-logo {
+  display: block;
+  float: right;
+  background: url(../assets/sing-gov.svg) top left no-repeat;
+  background-size: cover;
+  width: 194px;
+  height: 26px;
+  background-size: cover;
+  text-indent: -2000em;
+  margin: 16px 0 0 0;
+}
+.menu-wrapper {
+  background: $light-gray;
+  position: relative;
+  z-index: 12;
+  font-size: 1.25em;
+  font-weight: 200;
+  line-height: 1em;
+  a {
+    display: inline-block;
+    padding: 0.6em 0;
+    color: $body-text;
+    text-decoration: none;
+    margin-right: 2em;
+    &.active {
+      font-weight: normal;
+      border-bottom: 2px solid $primary-blue;
+    }
+    &.right {
+      float: right;
+      margin-right: 0em;
+    }
+    &:hover {
+      color: $primary-blue;
+    }
+  }
+}
+.main-content {
+  width: 1024px;
+  margin: 2em auto;
+}
+.card {
+  margin: 1em auto;
+  background-color: $white;
+  box-shadow: 0px 1px 3px $middle-gray;
+  border-radius: 3px;
+  padding: 2px;
+  .card-heading {
+    padding: 1em 2em;
+    border-collapse: collapse;
+    background-color: $light-gray;
+    + .card-nav {
+      margin-top: -1em;
+    }
+  }
+  .card-nav {
+    padding: 0 2em;
+    border-collapse: collapse;
+    background-color: $light-gray;
+    ul {
+      margin: 0;
+      padding: 0;
+      li {
+        float: left;
+        cursor: pointer;
+        margin: 0 2em 0 0;
+        padding: 1em 0;
+        display: inline-block;
+        &.active {
+          font-weight: bold;
+          border-bottom: 2px solid $primary-blue;
+        }
+        &.last {
+          float: right;
+          margin: 0 0 0 2em;
+        }
+        &:hover {
+          color: $primary-blue;
+        }
+      }
+    }
+  }
+  .card-body {
+    padding: 2em;
+    background-color: $white;
+  }
+}
+.centered {
+  text-align: center;
+}
+.narrow {
+  padding: 0 4em;
+  width: 50%;
+}
+.icon-success:before {
+  content: '';
+  line-height: 4em;
+  display: inline-block;
+  width: 4em;
+  height: 4em;
+  color: $white;
+  background-color: $success;
+  border-radius: 2em;
+}
+.footer {
+  color: $middle-gray;
+  display: block;
+  font-size: 0.85em;
+  background-color: $body-text;
+  font-weight: 300;
+  padding-bottom: 6em;
+  span {
+    margin-right: 2em;
+  }
+  a {
+    color: $middle-gray;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 2em;
+    padding: 0.6em 0;
+    font-weight: 400;
+    &:hover {
+      color: $white;
+    }
+  }
+}
