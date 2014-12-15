@@ -150,6 +150,13 @@ small {
   width: 1024px;
   margin: 2em auto;
 }
+.level-up:before {
+  font-family: icomoon;
+  content: '';
+  display: inline-block;
+  width: 2em;
+  text-align: center;
+}
 .card {
   margin: 1em auto;
   background-color: $white;
