@@ -46,14 +46,14 @@ small {
 .switch-wrapper {
   font-size: 0.85em;
   background-color: $body-text;
-  font-weight: 300;
+  font-weight: normal;
   a {
     color: $middle-gray;
     text-decoration: none;
     display: inline-block;
     &.active {
       color: $white;
-      font-weight: normal;
+      font-weight: bold;
       border-bottom: 2px solid $white;
     }
     &:hover {
@@ -124,17 +124,16 @@ small {
   background: $light-gray;
   position: relative;
   z-index: 12;
-  font-size: 1.25em;
-  font-weight: 300;
+  font-weight: normal;
   line-height: 1em;
   a {
     display: inline-block;
-    padding: 0.6em 0;
+    padding: 1em 0;
     color: $body-text;
     text-decoration: none;
     margin-right: 2em;
     &.active {
-      font-weight: normal;
+      font-weight: bold;
       border-bottom: 2px solid $primary-blue;
     }
     &.right {
@@ -176,6 +175,7 @@ small {
     padding: 0 2em;
     border-collapse: collapse;
     background-color: $light-gray;
+    line-height: 1em;
     ul {
       margin: 0;
       padding: 0;
@@ -185,9 +185,9 @@ small {
         margin: 0 2em 0 0;
         padding: 1em 0;
         display: inline-block;
-        font-weight: 300;
+        font-weight: normal;
         &.active {
-          font-weight: normal;
+          font-weight: bold;
           border-bottom: 2px solid $primary-blue;
         }
         &.last {
