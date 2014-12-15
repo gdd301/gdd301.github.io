@@ -1,3 +1,26 @@
+@font-face {
+  font-family: Lato;
+  font-weight: 300;
+  src: url(../assets/Lato-Light.ttf);
+}
+
+@font-face {
+  font-family: Lato;
+  font-weight: normal;
+  src: url(../assets/Lato-Regular.ttf);
+}
+
+@font-face {
+  font-family: Lato;
+  font-weight: bold;
+  src: url(../assets/Lato-Bold.ttf);
+}
+
+@font-face {
+  font-family: icomoon;
+  src: url(../assets/icomoon.ttf);
+}
+
 html {font-size: 1em;}
 
 body {

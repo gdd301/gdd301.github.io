@@ -7,8 +7,8 @@ body {
   margin: 0;
   padding: 0;
   background-color: $background;
-  font-family: Lato;
   color: $body-text;
+  text-rendering: optimizeLegibility;
 }
 p {
   margin: 0 0 1em 0;
@@ -53,7 +53,7 @@ small {
     display: inline-block;
     &.active {
       color: $white;
-      font-weight: 400;
+      font-weight: normal;
       border-bottom: 2px solid $white;
     }
     &:hover {
@@ -125,7 +125,7 @@ small {
   position: relative;
   z-index: 12;
   font-size: 1.25em;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1em;
   a {
     display: inline-block;
@@ -154,8 +154,9 @@ small {
   font-family: icomoon;
   content: '';
   display: inline-block;
-  width: 2em;
+  width: 2.5em; // 2em / 0.8em
   text-align: center;
+  font-size: 0.8em;
 }
 .card {
   margin: 1em auto;
@@ -184,8 +185,9 @@ small {
         margin: 0 2em 0 0;
         padding: 1em 0;
         display: inline-block;
+        font-weight: 300;
         &.active {
-          font-weight: bold;
+          font-weight: normal;
           border-bottom: 2px solid $primary-blue;
         }
         &.last {
@@ -236,7 +238,7 @@ small {
     display: inline-block;
     margin-right: 2em;
     padding: 0.6em 0;
-    font-weight: 400;
+    font-weight: normal;
     &:hover {
       color: $white;
     }
