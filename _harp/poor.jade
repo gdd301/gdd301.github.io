@@ -1,0 +1,303 @@
+include partials/_switcher
+include partials/_topbar
+include partials/_menubar
+
+.main-content
+  .card
+    .card-heading
+      h1 Poor man’s styleguide
+    .card-body
+      h1 Heading 1
+      h2 Heading 2
+      h3 Heading 3
+      h4 Heading 4
+      h5 Heading 5
+      h6 Heading 6
+
+      h1 Heading 1
+      p Lorem ipsum dolor sit amet, adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.
+
+      h2 Heading 2
+      p Lorem ipsum dolor sit amet, adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.
+
+      h3 Heading 3
+      p Lorem ipsum dolor sit amet, adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.
+
+      h4 Heading 4
+      p Lorem ipsum dolor sit amet, adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.
+
+      h5 Heading 5
+      p Lorem ipsum dolor sit amet, adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.
+      h6 Heading 6
+      p Lorem ipsum dolor sit amet, adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.
+      p Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem.
+      p Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor.
+      p
+        img(alt='Placeholder Image and Some Alt Text', src='http://placehold.it/350x150', title='A title element for this placeholder image.')
+      p
+        | Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem.
+      blockquote
+        | &quot;This is a blockquote. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&quot;
+      h1#text-elements  Text Elements
+      p
+        | The
+        a(href='#') a element
+        |  example
+      p
+        | The
+        abbr abbr element
+        |  and an
+        abbr(title='Abbreviation') abbr
+        |  element with title examples
+      p
+        | The
+        acronym(title='A Cowboy Ran One New York Marathon') ACRONYM
+        |  element example
+      p
+        | The
+        b b element
+        |  example
+      p
+        | The
+        cite cite element
+        |  example
+      p
+        | The
+        code code element
+        |  example
+      p
+        | The
+        em em element
+        |  example
+      p
+        | The
+        del del element
+        |  example
+      p
+        | The
+        dfn dfn element
+        |  and
+        dfn(title='Title text') dfn element with title
+        |  examples
+      p
+        | The
+        i i element
+        |  example
+      p
+        | The
+        ins ins element
+        |  example
+      p
+        | The
+        kbd kbd element
+        |  example
+      p
+        | The
+        mark mark element
+        |  example
+      p
+        | The
+        q q element
+        |  example
+      p
+        | The
+        q
+          | q element
+          q inside
+          |  a q element
+        |  example
+      p
+        | The
+        s s element
+        |  example
+      p
+        | The
+        samp samp element
+        |  example
+      p
+        | The
+        small small element
+        |  example
+      p
+        | The
+        span span element
+        |  example
+      p
+        | The
+        strong strong element
+        |  example
+      p
+        | The
+        sub sub element
+        |  example
+      p
+        | The
+        sup sup element
+        |  example
+      p
+        | The
+        u u element
+        |  example
+      p
+        | The
+        var var element
+        |  example
+      hr
+      h1#monospace Monospace / Preformatted
+      p Code block wrapped in &quot;pre&quot; and &quot;code&quot; tags
+      pre.
+
+      p Monospace Text wrapped in &quot;pre&quot; tags
+      pre.
+
+      hr
+      h1#list_types List Types
+      h3 Ordered List
+      ol
+        li List Item 1
+        li List Item 2
+        li List Item 3
+      h3 Unordered List
+      ul
+        li List Item 1
+        li List Item 2
+        li List Item 3
+      h3 Definition List
+      dl
+        dt Definition List Term 1
+        dd This is a definition list description.
+        dt Definition List Term 2
+        dd This is a definition list description.
+        dt Definition List Term 3
+        dd This is a definition list description.
+      hr
+      h1#tables Tables
+      table(cellspacing='0', cellpadding='0')
+        tr
+          th Table Header 1
+          th Table Header 2
+          th Table Header 3
+        tr
+          td Division 1
+          td Division 2
+          td Division 3
+        tr.even
+          td Division 1
+          td Division 2
+          td Division 3
+        tr
+          td Division 1
+          td Division 2
+          td Division 3
+      hr
+      h1#form_elements Media and Form Elements
+      h2 Form Elements
+      p The Fieldset:
+      fieldset
+        legend Legend
+        p The Form:
+        form
+          p
+            label(for='text_field') Text Field:
+            br
+            input#text_field(type='text')
+          p
+            label(for='text_area') Text Area:
+            br
+            textarea#text_area
+          p
+            label(for='select_element') Select Element:
+            br
+            select(name='select_element')
+              optgroup(label='Option Group 1')
+                option(value='1') Option 1
+                option(value='2') Option 2
+                option(value='3') Option 3
+              optgroup(label='Option Group 2')
+                option(value='1') Option 1
+                option(value='2') Option 2
+                option(value='3') Option 3
+          p
+            label(for='radio_buttons') Radio Buttons:
+            br
+            input.radio(type='radio', name='radio_button', value='radio_1')
+            | Radio 1
+            br
+            input.radio(type='radio', name='radio_button', value='radio_2')
+            |  Radio 2
+            br
+            input.radio(type='radio', name='radio_button', value='radio_3')
+            |  Radio 3
+            br
+          p
+            label(for='checkboxes') Checkboxes:
+            br
+            input.checkbox(type='checkbox', name='checkboxes', value='check_1')
+            |  Radio 1
+            br
+            input.checkbox(type='checkbox', name='checkboxes', value='check_2')
+            |  Radio 2
+            br
+            input.checkbox(type='checkbox', name='checkboxes', value='check_3')
+            |  Radio 3
+            br
+          p
+            label(for='password') Password:
+            br
+            input.password(type='password', name='password')
+          p
+            label(for='file') File Input:
+            br
+            input.file(type='file', name='file')
+          h3 HTML5-specific Form Elements
+          p
+            label(for='email') Email:
+            br
+            input(type='email')
+          p
+            label(for='url') URL:
+            br
+            input(type='url')
+          p
+            label(for='tel') Telephone:
+            br
+            input(type='tel')
+          p
+            label(for='number') Number:
+            br
+            input(type='number', min='0', max='10', step='1', value='5')
+          p
+            label(for='search') Search:
+            br
+            input(type='search')
+          p
+            label(for='date') Date:
+            br
+            input(type='date')
+          p
+            label(for='time') Time:
+            br
+            input(type='time')
+          p
+            label(for='color') Color:
+            br
+            input(type='color')
+          p
+            label(for='datalist') Datalist:
+            br
+            input(list='browsers', name='browser', type='datalist')
+            datalist#browsers
+              option(value='Internet Explorer')
+              option(value='Firefox')
+              option(value='Chrome')
+              option(value='Opera')
+              option(value='Safari')
+          p
+            label(for='range') Range:
+            br
+            input(type='range', name='points', min='1', max='10')
+          p
+            input.button(type='reset', value='Clear')
+            input.button(type='submit', value='Submit')
+
+include partials/_footer
