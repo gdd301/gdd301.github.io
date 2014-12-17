@@ -44,20 +44,20 @@ small {
   }
 }
 .switch-wrapper {
-  font-size: 0.85em;
-  background-color: $body-text;
+  font-size: 0.9em;
+  background-color: $light-gray;
   font-weight: normal;
+  min-height: 50px;
   a {
-    color: $middle-gray;
+    color: $primary-blue;
     text-decoration: none;
     display: inline-block;
     &.active {
-      color: $white;
+      color: $body-text;
       font-weight: bold;
-      border-bottom: 2px solid $white;
     }
     &:hover {
-      color: $white;
+      color: $body-text;
     }
   }
 }
@@ -66,21 +66,62 @@ small {
   display: inline-block;
   a {
     margin-right: 2em;
-    padding: 0.6em 0;
+    line-height: 50px;
+    &.switch {
+      color: $body-text;
+      text-align: center;
+      padding-right: 2em;
+      border-right: 1px solid $middle-gray;
+      &:after {
+        font-family: icomoon;
+        content: '';
+        font-size: 0.66em;
+        padding-left: 0.66em;
+      }
+    }
   }
 }
-.account-actions {
+.navigation {
+  float: left;
   display: inline-block;
+  line-height: 50px;
+}
+.account-actions {
   float: right;
+  display: inline-block;
+  line-height: 50px;
   a {
     margin-left: 1em;
-    padding: 0.6em 0;
+    &.user {
+      &:after {
+        font-family: icomoon;
+        content: '';
+        font-size: 0.66em;
+        padding-left: 0.66em;
+      }
+    }
+    &.inbox {
+      span {
+        display: none;
+      }
+      &:before {
+        display: inline-block;
+        font-family: icomoon;
+        color: $body-text;
+        content: '';
+        padding: 0.6em;
+        line-height: 1em;
+        text-align: center;
+        background-color: $white;
+        border-radius: 3px;
+      }
+    }
   }
 }
 .topbar {
   display: block;
   text-align: left;
-  padding: 20px 0;
+  padding: 10px 0;
   text-align: center;
   position: relative;
   z-index: 12;
@@ -149,11 +190,14 @@ small {
   width: 1024px;
   margin: 2em auto;
 }
+.level-up {
+  font-size: 0.9em;
+}
 .level-up:before {
   font-family: icomoon;
   content: '';
   display: inline-block;
-  width: 2.5em; // 2em / 0.8em
+  width: 2.79em; // 2em / 0.8em / 0.9em
   text-align: center;
   font-size: 0.8em;
 }
@@ -170,7 +214,8 @@ small {
     }
   }
   .card-nav {
-    padding: 0 2em;
+    font-size: 0.9em;
+    padding: 0 2.23em;
     border-collapse: collapse;
     background-color: $light-gray;
     line-height: 1em;
