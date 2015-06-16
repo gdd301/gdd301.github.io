@@ -39,24 +39,28 @@ nav {
 	padding: 12px 0;
 }
 
-#main {
-	padding-top: 24px;
-	padding-right: 24px;
+.main {
+	position: relative;
 	float: left;
+	padding-top: 24px;
+	padding-right: 23px;
 	width: 592px;
 	border-right: 1px solid $grey-borders;
 }
 
-#sidebar {
-	margin-top: 0px;
-	margin-bottom: 0px;
-	padding-top: 24px;
-	float: right;
+.sidebar {
+	position: relative;
+	float: left;
+	padding-left: 23px;
 	display: block;
 	margin-right: 0;
-	padding-left: 23px;
-	width: 296px;
-	min-height: 200px;
+	#sticky_panel {
+		top: 0;
+		padding-top: 24px;
+		position: absolute;
+		width: 296px;
+	}
+
 }
 
 .question {

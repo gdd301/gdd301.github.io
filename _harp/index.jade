@@ -18,10 +18,7 @@ section.signpost
 
 section.content
 	.grid-width
-		#sidebar
-			a(href="#").button.primary Proceed to Rating
-			a(href="#").button.secondary Save for later
-		#main
+		.main
 			.question
 				p Documents
 					.dropzone
@@ -54,3 +51,10 @@ section.content
 			.question
 				p Broker contact
 				input(type='text' name='')
+		.sidebar
+			#sticky_panel
+				a(href="#").button.primary Proceed to Rating
+				a(href="#").button.secondary Save for later
+
+script.
+	$("#sticky_panel").stick_in_parent();

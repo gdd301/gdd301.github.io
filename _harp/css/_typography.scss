@@ -153,14 +153,21 @@ a.button {
 	padding: 15.2px 0px;
 	margin-bottom: 8px;
 }
+
 a.primary {
 	background-color: $turquoise;
 	color: white;
 	border: none;
+	&:hover {
+			background-color: darken($turquoise, 3%);
+	}
 }
 
 a.secondary {
 	background-color: $text-invert;
 	color: $turquoise;
 	box-shadow: inset 0 0 0 2px $turquoise;
+	&:hover {
+			background-color: darken($text-invert, 3%);
+	}
 }
