@@ -16,3 +16,25 @@
 	border-bottom: 1px solid $grey-borders;
 	padding: 12px 0;
 }
+
+nav {
+	.primary {
+		white-space: nowrap;
+		float: left;
+	}
+	.utility {
+		white-space: nowrap;
+		float: right;
+	}
+	ul {
+		li {
+			display: inline-block;
+			margin-left: 24px;
+		}
+	}
+}
+
+.signpost {
+	border-bottom: 1px solid $grey-borders;
+	padding: 12px 0;
+}
