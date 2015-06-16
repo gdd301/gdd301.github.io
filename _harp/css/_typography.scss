@@ -18,20 +18,22 @@ nav {
 		}
 	}
 	.primary {
+		white-space: nowrap;
 		float: left;
 	}
 	.utility {
+		white-space: nowrap;
 		float: right;
 		font-size: 12px;
 		.search {
 			text-align: center;
 			border-left: 1px solid $grey-borders;
 			border-right: 1px solid $grey-borders;
-			margin-top: 3px;
+			margin-top: 1px;
 			vertical-align: middle;
 			.material-icons {
 				width: 64px;
-				line-height:60px;
+				line-height:59px;
 			}
 		}
 	}
