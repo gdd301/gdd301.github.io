@@ -1,0 +1,18 @@
+.grid-width {
+	max-width: 936px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0 24px 0 24px;
+}
+
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.section-header {
+	background: $grey-light;
+	border-bottom: 1px solid $grey-borders;
+	padding: 12px 0;
+}
