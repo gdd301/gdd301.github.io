@@ -100,3 +100,38 @@ h2 {
 		}
 	}
 }
+
+input[type="text"] {
+	font-family: 'Titillium Web';
+	font-size: 13.6px;
+	font-weight: normal;
+	padding: 10px;
+	margin-top: 8px;
+	width: 66%;
+	box-shadow: inset 0 0 0 0px $grey-forms;
+	border: 1px solid $grey-forms;
+	border-radius: 4px;
+	color: $text;
+	&:focus {
+		box-shadow: inset 0 0 0 1px $turquoise;
+		border: 1px solid $turquoise;
+		outline: none;
+	}
+}
+
+.dropzone {
+	width: 66%;
+	padding: 10px;
+	margin-top: 8px;
+	display: block;
+	line-height: 1;
+	border-radius: 4px;
+	text-align: center;
+	border: 1px dashed $grey-dark;
+	.material-icons {
+		display: block;
+	}
+	small {
+		font-size: 11px;
+	}
+}

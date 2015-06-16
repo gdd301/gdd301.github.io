@@ -38,3 +38,29 @@ nav {
 	border-bottom: 1px solid $grey-borders;
 	padding: 12px 0;
 }
+
+.main {
+	margin-top: 24px;
+}
+
+.main-left {
+	float: left;
+	display: block;
+	margin-right: 2.5641%;
+	width: 58.97436%;
+}
+
+.main-sidebar {
+	position: relative;
+	float: left;
+	display: block;
+	margin-right: 0;
+	width: 38.46154%;
+}
+
+.question {
+	border-left: 4px solid #e0e0e0;
+	background-color: #f7f7f7;
+	padding: 16px;
+	margin-bottom: 4px;
+}
