@@ -2,27 +2,3 @@
 @import "colors.scss";
 @import "typography.scss";
 @import "layout.scss";
-
-header {
-	width: 100%;
-	position: relative;
-	box-shadow: inset 0 -1px 0 0 $grey-borders, inset 0 4px 0 0 $markel-red;
-	border-bottom: none;
-	z-index: 99999;
-}
-
-a.logo {
-	float: left;
-	display: block;
-	position: relative;
-	z-index: 99999;
-	padding: 12px 12px 6px 12px;
-	background-color: $markel-red;
-
-	img {
-		width: 40px;
-		height: 40px;
-		margin: 0 auto;
-	}
-
-}
