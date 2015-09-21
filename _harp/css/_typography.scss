@@ -6,19 +6,19 @@ body {
 	line-height: 1.55;
 }
 
-h1, h2 {
+h2 {
 		margin-top: 2em;
 }
 
 a {
 	border-bottom: 2px solid $link;
-  box-shadow: inset 0 -3px 0 $link;
+  box-shadow: inset 0 -4px 0 $link;
 	text-decoration: none;
 	color: inherit;
 }
 
 a:hover {
-	background: $link;
+	background-color: $link;
 }
 
 ul {
