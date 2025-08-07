@@ -1,0 +1,1506 @@
+[
+ {
+   "Account": "07600AGS",
+   "Balance Type": "Acquirer Fee",
+   "Cost Center": "Agency Desk",
+   "Counterparty": "Apex Financial Group",
+   "Instrument": "$1,500 Gold Futures, 1-3 years",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "076BSKTY",
+   "Balance Type": "Available Balance",
+   "Cost Center": "Asset Management",
+   "Counterparty": "Apex Inc.",
+   "Instrument": "$10,000 Wheat Futures, 2-6 years",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "076CRDBK",
+   "Balance Type": "Cash",
+   "Cost Center": "Callables",
+   "Counterparty": "Bank of America Corporation",
+   "Instrument": "$15,000 Lumber Futures, 4-8 years",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "076CRDSP",
+   "Balance Type": "Cost",
+   "Cost Center": "CDO Arbitrage",
+   "Counterparty": "Bank Of New York",
+   "Instrument": "$20,000 Silver Futures, 3-8 years",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "076CVHDG",
+   "Balance Type": "Expense Payable",
+   "Cost Center": "CMBS Credit",
+   "Counterparty": "Barclays Bank PLC",
+   "Instrument": "$25,000 Palladium Futures, 2-7 years",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "076DTLTB",
+   "Balance Type": "Funded Interest",
+   "Cost Center": "Comm Op Asset Finance",
+   "Counterparty": "BlackRock Inc.",
+   "Instrument": "$30,000 Copper Futures, 5-10 years",
+   "Legal Entity": "NexaSoft HK"
+ },
+ {
+   "Account": "076LQDPT",
+   "Balance Type": "Income Fee P&L",
+   "Cost Center": "Commodities Trading",
+   "Counterparty": "BNP Paribas SA",
+   "Instrument": "$40,000 Natural Gas Futures, 1-4 years",
+   "Legal Entity": "NexaSoft Limited Partners"
+ },
+ {
+   "Account": "076MTFH1",
+   "Balance Type": "Interest Payable",
+   "Cost Center": "Compliance",
+   "Counterparty": "Charles Schwab Corporation",
+   "Instrument": "$60,000 RBOB Futures, 1-5 years",
+   "Legal Entity": "NexaSoft North America"
+ },
+ {
+   "Account": "076MTFH2",
+   "Balance Type": "Other Liabilities",
+   "Cost Center": "Cost Plus Ap",
+   "Counterparty": "Citigroup Inc.",
+   "Instrument": "$80,000 Crude Oil Futures, 2-5 years",
+   "Legal Entity": "NexaSoft Parent, LLC"
+ },
+ {
+   "Account": "076MTFH3",
+   "Balance Type": "Pending Market Value",
+   "Cost Center": "Cost Plus Mw",
+   "Counterparty": "Credit Suisse Group AG",
+   "Instrument": "$90,000 Brent Futures, 3-6 years",
+   "Legal Entity": "NexaSoft Principal Lending, LLC"
+ },
+ {
+   "Account": "076MTFH4",
+   "Balance Type": "Quantity",
+   "Cost Center": "Credit Analytics",
+   "Counterparty": "Deutsche Bank AG",
+   "Instrument": "123Dentist",
+   "Legal Entity": "NexaSoft Spain"
+ },
+ {
+   "Account": "076MTFH5",
+   "Balance Type": "Realized Balance Sheet",
+   "Cost Center": "Derivatives Mmd Book",
+   "Counterparty": "E*TRADE Financial Corporation",
+   "Instrument": "AAAA Security",
+   "Legal Entity": "NexaSoft TK"
+ },
+ {
+   "Account": "076MTFH6",
+   "Balance Type": "Realized Fee P&L",
+   "Cost Center": "Finance",
+   "Counterparty": "Fidelity Investments",
+   "Instrument": "ABAA Security",
+   "Legal Entity": "NS Group"
+ },
+ {
+   "Account": "076MTFHD",
+   "Balance Type": "Realized P&L",
+   "Cost Center": "Flex Book Owners",
+   "Counterparty": "Goldman Sachs & Co.",
+   "Instrument": "ABS Collateralized Debt Obligation",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "076MTLBK",
+   "Balance Type": "Settlement Date Quantity",
+   "Cost Center": "FX Trading",
+   "Counterparty": "HSBC Holdings PLC",
+   "Instrument": "ABS Receivable",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "076MTLS1",
+   "Balance Type": "TD Market Value",
+   "Cost Center": "Government Book",
+   "Counterparty": "Independent Group Inc.",
+   "Instrument": "ABS Residual",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "076MTLS2",
+   "Balance Type": "TD Quantity",
+   "Cost Center": "Investments",
+   "Counterparty": "ING Group NV",
+   "Instrument": "ABXY Debt",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "076MTLS3",
+   "Balance Type": "Unrealized Coupon",
+   "Cost Center": "Legal",
+   "Counterparty": "JPMorgan Chase & Co.",
+   "Instrument": "ACAA Security",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "076MTLSH",
+   "Balance Type": "Unrealized P&L",
+   "Cost Center": "Loan Management",
+   "Counterparty": "Liberty Partners",
+   "Instrument": "ADAA Security",
+   "Legal Entity": "NexaSoft HK"
+ },
+ {
+   "Account": "076NTGB1",
+   "Balance Type": "Acquirer Fee",
+   "Cost Center": "NSNA Equity Options",
+   "Counterparty": "Millennium Asset Management",
+   "Instrument": "Advanced Navigation Pty Ltd - Private Equity (Held Through Accelerate Asia Holdings I Pte. Ltd.) - Main",
+   "Legal Entity": "NexaSoft Limited Partners"
+ },
+ {
+   "Account": "076NTGB2",
+   "Balance Type": "Available Balance",
+   "Cost Center": "NSNA Index Options",
+   "Counterparty": "Monticello Investments",
+   "Instrument": "Advanta Seeds Pty Ltd - Private Equity (Held Through Melwood Holdings I Pte. Ltd.) - Main",
+   "Legal Entity": "NexaSoft North America"
+ },
+ {
+   "Account": "076NTGB3",
+   "Balance Type": "Cash",
+   "Cost Center": "NSNA Trading Unit",
+   "Counterparty": "Morgan Stanley & Co.",
+   "Instrument": "ADZS Security",
+   "Legal Entity": "NexaSoft Parent, LLC"
+ },
+ {
+   "Account": "076NTGB4",
+   "Balance Type": "Cost",
+   "Cost Center": "Operations",
+   "Counterparty": "Nexus Incorporated",
+   "Instrument": "AEAA Security",
+   "Legal Entity": "NexaSoft Principal Lending, LLC"
+ },
+ {
+   "Account": "076NTGB5",
+   "Balance Type": "Expense Payable",
+   "Cost Center": "Over Head",
+   "Counterparty": "Pacific Capital Group",
+   "Instrument": "AFAA Security",
+   "Legal Entity": "NexaSoft Spain"
+ },
+ {
+   "Account": "076NTGB6",
+   "Balance Type": "Funded Interest",
+   "Cost Center": "PUBFIN",
+   "Counterparty": "Pioneer Capital Partners",
+   "Instrument": "AGAA Security",
+   "Legal Entity": "NexaSoft TK"
+ },
+ {
+   "Account": "076NTGB7",
+   "Balance Type": "Income Fee P&L",
+   "Cost Center": "Trusts Cons",
+   "Counterparty": "Santander Bank",
+   "Instrument": "AHBA Security",
+   "Legal Entity": "NS Group"
+ },
+ {
+   "Account": "076NTGB8",
+   "Balance Type": "Interest Payable",
+   "Cost Center": "USD Options",
+   "Counterparty": "Societe Generale SA",
+   "Instrument": "AHCA Security",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "076NTGBK",
+   "Balance Type": "Other Liabilities",
+   "Cost Center": "USD Structured Swaps",
+   "Counterparty": "Sterling Partners",
+   "Instrument": "AHDA Security",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "076NTGSP",
+   "Balance Type": "Pending Market Value",
+   "Cost Center": "Agency Desk",
+   "Counterparty": "Summit Partners",
+   "Instrument": "AHEA Security",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "076NTGT1",
+   "Balance Type": "Quantity",
+   "Cost Center": "Asset Management",
+   "Counterparty": "T. Rowe Price Group",
+   "Instrument": "AHFA Security",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "076NTGT2",
+   "Balance Type": "Realized Balance Sheet",
+   "Cost Center": "Callables",
+   "Counterparty": "TD Ameritrade",
+   "Instrument": "AHGA Security",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "076NTGTP",
+   "Balance Type": "Realized Fee P&L",
+   "Cost Center": "CDO Arbitrage",
+   "Counterparty": "UBS AG",
+   "Instrument": "Australian Dollars",
+   "Legal Entity": "NexaSoft HK"
+ },
+ {
+   "Account": "08600AGS",
+   "Balance Type": "Realized P&L",
+   "Cost Center": "CMBS Credit",
+   "Counterparty": "Vanguard Group Inc.",
+   "Instrument": "AUTOINSTR001",
+   "Legal Entity": "NexaSoft Limited Partners"
+ },
+ {
+   "Account": "086BSKTY",
+   "Balance Type": "Settlement Date Quantity",
+   "Cost Center": "Comm Op Asset Finance",
+   "Counterparty": "Vargus Limited Partners",
+   "Instrument": "Barracuda Networks Inc - Private Equity (Held Through Atlantic Aggregator L.P.) - Main",
+   "Legal Entity": "NexaSoft North America"
+ },
+ {
+   "Account": "086CRDBK",
+   "Balance Type": "TD Market Value",
+   "Cost Center": "Commodities Trading",
+   "Counterparty": "Wells Fargo & Company",
+   "Instrument": "Bettcher Industries Inc - Private Equity (Held Through Merlin Aggregator L.P.) - 2022",
+   "Legal Entity": "NexaSoft Parent, LLC"
+ },
+ {
+   "Account": "086CRDSP",
+   "Balance Type": "TD Quantity",
+   "Cost Center": "Compliance",
+   "Counterparty": "Apex Financial Group",
+   "Instrument": "BPZG Debt",
+   "Legal Entity": "NexaSoft Principal Lending, LLC"
+ },
+ {
+   "Account": "086CVHDG",
+   "Balance Type": "Unrealized Coupon",
+   "Cost Center": "Cost Plus Ap",
+   "Counterparty": "Apex Inc.",
+   "Instrument": "Bugatti Global Funds ICAV - Global Corporate Bond UCITS ETF",
+   "Legal Entity": "NexaSoft Spain"
+ },
+ {
+   "Account": "086DTLTB",
+   "Balance Type": "Unrealized P&L",
+   "Cost Center": "Cost Plus Mw",
+   "Counterparty": "Bank of America Corporation",
+   "Instrument": "BZIQ Debt",
+   "Legal Entity": "NexaSoft TK"
+ },
+ {
+   "Account": "086LQDPT",
+   "Balance Type": "Acquirer Fee",
+   "Cost Center": "Credit Analytics",
+   "Counterparty": "Bank Of New York",
+   "Instrument": "Canadian Dollar Forward",
+   "Legal Entity": "NS Group"
+ },
+ {
+   "Account": "086MTFH1",
+   "Balance Type": "Available Balance",
+   "Cost Center": "Derivatives Mmd Book",
+   "Counterparty": "Barclays Bank PLC",
+   "Instrument": "Captive Resources Midco LLC - Private Equity (Held Through Stingray Aggregator (Direct) L.P.) - Main",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "086MTFH2",
+   "Balance Type": "Cash",
+   "Cost Center": "Finance",
+   "Counterparty": "BlackRock Inc.",
+   "Instrument": "CDBO475561640",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "086MTFH3",
+   "Balance Type": "Cost",
+   "Cost Center": "Flex Book Owners",
+   "Counterparty": "BNP Paribas SA",
+   "Instrument": "Clinisupplies Ltd - Private Equity (Held Through Cura Aggregator L.P.) - Main",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "086MTFH4",
+   "Balance Type": "Expense Payable",
+   "Cost Center": "FX Trading",
+   "Counterparty": "Charles Schwab Corporation",
+   "Instrument": "Contabo GmbH - Private Equity (Held Through Cumulus Aggregator L.P.) - Main",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "086MTFH5",
+   "Balance Type": "Funded Interest",
+   "Cost Center": "Government Book",
+   "Counterparty": "Citigroup Inc.",
+   "Instrument": "CVSE Debt",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "086MTFH6",
+   "Balance Type": "Income Fee P&L",
+   "Cost Center": "Investments",
+   "Counterparty": "Credit Suisse Group AG",
+   "Instrument": "DGQO Debt",
+   "Legal Entity": "NexaSoft HK"
+ },
+ {
+   "Account": "086MTFHD",
+   "Balance Type": "Interest Payable",
+   "Cost Center": "Legal",
+   "Counterparty": "Deutsche Bank AG",
+   "Instrument": "DOHU Security",
+   "Legal Entity": "NexaSoft Limited Partners"
+ },
+ {
+   "Account": "086MTLBK",
+   "Balance Type": "Other Liabilities",
+   "Cost Center": "Loan Management",
+   "Counterparty": "E*TRADE Financial Corporation",
+   "Instrument": "EBQG Debt",
+   "Legal Entity": "NexaSoft North America"
+ },
+ {
+   "Account": "086MTLS1",
+   "Balance Type": "Pending Market Value",
+   "Cost Center": "NSNA Equity Options",
+   "Counterparty": "Fidelity Investments",
+   "Instrument": "EHFA Security",
+   "Legal Entity": "NexaSoft Parent, LLC"
+ },
+ {
+   "Account": "086MTLS2",
+   "Balance Type": "Quantity",
+   "Cost Center": "NSNA Index Options",
+   "Counterparty": "Goldman Sachs & Co.",
+   "Instrument": "EJAU Debt",
+   "Legal Entity": "NexaSoft Principal Lending, LLC"
+ },
+ {
+   "Account": "086MTLS3",
+   "Balance Type": "Realized Balance Sheet",
+   "Cost Center": "NSNA Trading Unit",
+   "Counterparty": "HSBC Holdings PLC",
+   "Instrument": "ELNR Security",
+   "Legal Entity": "NexaSoft Spain"
+ },
+ {
+   "Account": "086MTLSH",
+   "Balance Type": "Realized Fee P&L",
+   "Cost Center": "Operations",
+   "Counterparty": "Independent Group Inc.",
+   "Instrument": "Euro Dollar Forward",
+   "Legal Entity": "NexaSoft TK"
+ },
+ {
+   "Account": "086NTGB1",
+   "Balance Type": "Realized P&L",
+   "Cost Center": "Over Head",
+   "Counterparty": "ING Group NV",
+   "Instrument": "Euro Dollars",
+   "Legal Entity": "NS Group"
+ },
+ {
+   "Account": "086NTGB2",
+   "Balance Type": "Settlement Date Quantity",
+   "Cost Center": "PUBFIN",
+   "Counterparty": "JPMorgan Chase & Co.",
+   "Instrument": "Euro Payable",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "086NTGB3",
+   "Balance Type": "TD Market Value",
+   "Cost Center": "Trusts Cons",
+   "Counterparty": "Liberty Partners",
+   "Instrument": "Ferrari Global Funds ICAV Bond UCITS ETF",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "086NTGB4",
+   "Balance Type": "TD Quantity",
+   "Cost Center": "USD Options",
+   "Counterparty": "Millennium Asset Management",
+   "Instrument": "Ferrari UCITS ETF",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "086NTGB5",
+   "Balance Type": "Unrealized Coupon",
+   "Cost Center": "USD Structured Swaps",
+   "Counterparty": "Monticello Investments",
+   "Instrument": "Goldman Sachs plc - US$ Treasury Liquid Reserves Fund - GSUTLRI ID MMF",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "086NTGB6",
+   "Balance Type": "Unrealized P&L",
+   "Cost Center": "Agency Desk",
+   "Counterparty": "Morgan Stanley & Co.",
+   "Instrument": "Great Britain Pound Forward",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "086NTGB7",
+   "Balance Type": "Acquirer Fee",
+   "Cost Center": "Asset Management",
+   "Counterparty": "Nexus Incorporated",
+   "Instrument": "Groundworks Co - Private Equity (Held Through Proof Aggregator A L.P.) - Main",
+   "Legal Entity": "NexaSoft HK"
+ },
+ {
+   "Account": "086NTGB8",
+   "Balance Type": "Available Balance",
+   "Cost Center": "Callables",
+   "Counterparty": "Pacific Capital Group",
+   "Instrument": "Groundworks Co - Private Equity (Held Through Proof Aggregator B L.P.) - Main",
+   "Legal Entity": "NexaSoft Limited Partners"
+ },
+ {
+   "Account": "086NTGBK",
+   "Balance Type": "Cash",
+   "Cost Center": "CDO Arbitrage",
+   "Counterparty": "Pioneer Capital Partners",
+   "Instrument": "HNJV Debt",
+   "Legal Entity": "NexaSoft North America"
+ },
+ {
+   "Account": "086NTGSP",
+   "Balance Type": "Cost",
+   "Cost Center": "CMBS Credit",
+   "Counterparty": "Santander Bank",
+   "Instrument": "IGLU Security",
+   "Legal Entity": "NexaSoft Parent, LLC"
+ },
+ {
+   "Account": "086NTGT1",
+   "Balance Type": "Expense Payable",
+   "Cost Center": "Comm Op Asset Finance",
+   "Counterparty": "Societe Generale SA",
+   "Instrument": "IIXX Security",
+   "Legal Entity": "NexaSoft Principal Lending, LLC"
+ },
+ {
+   "Account": "086NTGT2",
+   "Balance Type": "Funded Interest",
+   "Cost Center": "Commodities Trading",
+   "Counterparty": "Sterling Partners",
+   "Instrument": "Instr_Tran_autotest_11",
+   "Legal Entity": "NexaSoft Spain"
+ },
+ {
+   "Account": "086NTGTP",
+   "Balance Type": "Income Fee P&L",
+   "Cost Center": "Compliance",
+   "Counterparty": "Summit Partners",
+   "Instrument": "Instr_Tran_autotest_12",
+   "Legal Entity": "NexaSoft TK"
+ },
+ {
+   "Account": "123456USDAW",
+   "Balance Type": "Interest Payable",
+   "Cost Center": "Cost Plus Ap",
+   "Counterparty": "T. Rowe Price Group",
+   "Instrument": "Instr_Tran_autotest_13",
+   "Legal Entity": "NS Group"
+ },
+ {
+   "Account": "276CRD081",
+   "Balance Type": "Other Liabilities",
+   "Cost Center": "Cost Plus Mw",
+   "Counterparty": "TD Ameritrade",
+   "Instrument": "Instr_Tran_autotest_14",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "276MTL094",
+   "Balance Type": "Pending Market Value",
+   "Cost Center": "Credit Analytics",
+   "Counterparty": "UBS AG",
+   "Instrument": "Instr_Tran_autotest_15",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "276NTG055",
+   "Balance Type": "Quantity",
+   "Cost Center": "Derivatives Mmd Book",
+   "Counterparty": "Vanguard Group Inc.",
+   "Instrument": "Instr_Tran_autotest_16",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "276NTG103",
+   "Balance Type": "Realized Balance Sheet",
+   "Cost Center": "Finance",
+   "Counterparty": "Vargus Limited Partners",
+   "Instrument": "INSTR0012",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "276NTG105",
+   "Balance Type": "Realized Fee P&L",
+   "Cost Center": "Flex Book Owners",
+   "Counterparty": "Wells Fargo & Company",
+   "Instrument": "INSTR01",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "276NTG107",
+   "Balance Type": "Realized P&L",
+   "Cost Center": "FX Trading",
+   "Counterparty": "Apex Financial Group",
+   "Instrument": "Instrument_CwNj1Ei",
+   "Legal Entity": "NexaSoft HK"
+ },
+ {
+   "Account": "276NTG110",
+   "Balance Type": "Settlement Date Quantity",
+   "Cost Center": "Government Book",
+   "Counterparty": "Apex Inc.",
+   "Instrument": "Instrument_WHJKNUS",
+   "Legal Entity": "NexaSoft Limited Partners"
+ },
+ {
+   "Account": "286BSK055",
+   "Balance Type": "TD Market Value",
+   "Cost Center": "Investments",
+   "Counterparty": "Bank of America Corporation",
+   "Instrument": "Instrument_X3YKOJG",
+   "Legal Entity": "NexaSoft North America"
+ },
+ {
+   "Account": "286CRD081",
+   "Balance Type": "TD Quantity",
+   "Cost Center": "Legal",
+   "Counterparty": "Bank Of New York",
+   "Instrument": "Instrument_X3YKOJG11",
+   "Legal Entity": "NexaSoft Parent, LLC"
+ },
+ {
+   "Account": "286CRD082",
+   "Balance Type": "Unrealized Coupon",
+   "Cost Center": "Loan Management",
+   "Counterparty": "Barclays Bank PLC",
+   "Instrument": "Investment in Aggregator Class USD A",
+   "Legal Entity": "NexaSoft Principal Lending, LLC"
+ },
+ {
+   "Account": "286CVH083",
+   "Balance Type": "Unrealized P&L",
+   "Cost Center": "NSNA Equity Options",
+   "Counterparty": "BlackRock Inc.",
+   "Instrument": "Investment in Aggregator Class USD E",
+   "Legal Entity": "NexaSoft Spain"
+ },
+ {
+   "Account": "286DTL084",
+   "Balance Type": "Acquirer Fee",
+   "Cost Center": "NSNA Index Options",
+   "Counterparty": "BNP Paribas SA",
+   "Instrument": "Investment in Lux Feeder - Class A",
+   "Legal Entity": "NexaSoft TK"
+ },
+ {
+   "Account": "286LQD085",
+   "Balance Type": "Available Balance",
+   "Cost Center": "NSNA Trading Unit",
+   "Counterparty": "Charles Schwab Corporation",
+   "Instrument": "Investment in Lux Feeder - Class R",
+   "Legal Entity": "NS Group"
+ },
+ {
+   "Account": "286MTF086",
+   "Balance Type": "Cash",
+   "Cost Center": "Operations",
+   "Counterparty": "Citigroup Inc.",
+   "Instrument": "Investment in Prime AG Hedgeco LP",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "286MTF090",
+   "Balance Type": "Cost",
+   "Cost Center": "Over Head",
+   "Counterparty": "Credit Suisse Group AG",
+   "Instrument": "Investment in Prime Agg Financing",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "286NTG098",
+   "Balance Type": "Expense Payable",
+   "Cost Center": "PUBFIN",
+   "Counterparty": "Deutsche Bank AG",
+   "Instrument": "Investment in Prime Master Class USD E",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "286NTG100",
+   "Balance Type": "Funded Interest",
+   "Cost Center": "Trusts Cons",
+   "Counterparty": "E*TRADE Financial Corporation",
+   "Instrument": "Investment in Prime Master Class USD F",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "2CC1000111",
+   "Balance Type": "Income Fee P&L",
+   "Cost Center": "USD Options",
+   "Counterparty": "Fidelity Investments",
+   "Instrument": "Investment in PROOF B BLOCKER LLC",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "2CC1000112",
+   "Balance Type": "Interest Payable",
+   "Cost Center": "USD Structured Swaps",
+   "Counterparty": "Goldman Sachs & Co.",
+   "Instrument": "Investment in WAREHOUSE L.P.",
+   "Legal Entity": "NexaSoft HK"
+ },
+ {
+   "Account": "2CC1000113",
+   "Balance Type": "Other Liabilities",
+   "Cost Center": "Agency Desk",
+   "Counterparty": "HSBC Holdings PLC",
+   "Instrument": "IR Swap 0.01% Fixed 0.01% Float 10 Years",
+   "Legal Entity": "NexaSoft Limited Partners"
+ },
+ {
+   "Account": "2CC1000114",
+   "Balance Type": "Pending Market Value",
+   "Cost Center": "Asset Management",
+   "Counterparty": "Independent Group Inc.",
+   "Instrument": "IR Swap 0.01% Fixed 0.01% Float 15 Years",
+   "Legal Entity": "NexaSoft North America"
+ },
+ {
+   "Account": "376CRD082",
+   "Balance Type": "Quantity",
+   "Cost Center": "Callables",
+   "Counterparty": "ING Group NV",
+   "Instrument": "IR Swap 0.01% Fixed 0.01% Float 2 Years",
+   "Legal Entity": "NexaSoft Parent, LLC"
+ },
+ {
+   "Account": "376CVH083",
+   "Balance Type": "Realized Balance Sheet",
+   "Cost Center": "CDO Arbitrage",
+   "Counterparty": "JPMorgan Chase & Co.",
+   "Instrument": "IR Swap 0.01% Fixed 0.01% Float 25 Years",
+   "Legal Entity": "NexaSoft Principal Lending, LLC"
+ },
+ {
+   "Account": "376DTL084",
+   "Balance Type": "Realized Fee P&L",
+   "Cost Center": "CMBS Credit",
+   "Counterparty": "Liberty Partners",
+   "Instrument": "IR Swap 0.01% Fixed 0.02% Float 10 Years",
+   "Legal Entity": "NexaSoft Spain"
+ },
+ {
+   "Account": "376LQD085",
+   "Balance Type": "Realized P&L",
+   "Cost Center": "Comm Op Asset Finance",
+   "Counterparty": "Millennium Asset Management",
+   "Instrument": "IR Swap 0.01% Fixed 0.02% Float 15 Years",
+   "Legal Entity": "NexaSoft TK"
+ },
+ {
+   "Account": "376MTF086",
+   "Balance Type": "Settlement Date Quantity",
+   "Cost Center": "Commodities Trading",
+   "Counterparty": "Monticello Investments",
+   "Instrument": "IR Swap 0.01% Fixed 0.02% Float 2 Years",
+   "Legal Entity": "NS Group"
+ },
+ {
+   "Account": "376MTF087",
+   "Balance Type": "TD Market Value",
+   "Cost Center": "Compliance",
+   "Counterparty": "Morgan Stanley & Co.",
+   "Instrument": "IR Swap 0.01% Fixed 0.02% Float 25 Years",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "376MTF088",
+   "Balance Type": "TD Quantity",
+   "Cost Center": "Cost Plus Ap",
+   "Counterparty": "Nexus Incorporated",
+   "Instrument": "IR Swap 0.01% Fixed 0.03% Float 15 Years",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "376MTF089",
+   "Balance Type": "Unrealized Coupon",
+   "Cost Center": "Cost Plus Mw",
+   "Counterparty": "Pacific Capital Group",
+   "Instrument": "IR Swap 0.01% Fixed 0.03% Float 2 Years",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "376MTF090",
+   "Balance Type": "Unrealized P&L",
+   "Cost Center": "Credit Analytics",
+   "Counterparty": "Pioneer Capital Partners",
+   "Instrument": "IR Swap 0.01% Fixed 0.03% Float 25 Years",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "376MTF091",
+   "Balance Type": "Acquirer Fee",
+   "Cost Center": "Derivatives Mmd Book",
+   "Counterparty": "Santander Bank",
+   "Instrument": "IR Swap 0.01% Fixed 0.04% Float 10 Years",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "376MTF092",
+   "Balance Type": "Available Balance",
+   "Cost Center": "Finance",
+   "Counterparty": "Societe Generale SA",
+   "Instrument": "IR Swap 0.01% Fixed 0.04% Float 15 Years",
+   "Legal Entity": "NexaSoft HK"
+ },
+ {
+   "Account": "376MTL093",
+   "Balance Type": "Cash",
+   "Cost Center": "Flex Book Owners",
+   "Counterparty": "Sterling Partners",
+   "Instrument": "IR Swap 0.01% Fixed 0.04% Float 25 Years",
+   "Legal Entity": "NexaSoft Limited Partners"
+ },
+ {
+   "Account": "376MTL095",
+   "Balance Type": "Cost",
+   "Cost Center": "FX Trading",
+   "Counterparty": "Summit Partners",
+   "Instrument": "IR Swap 0.02% Fixed 0.01% Float 10 Years",
+   "Legal Entity": "NexaSoft North America"
+ },
+ {
+   "Account": "376MTL096",
+   "Balance Type": "Expense Payable",
+   "Cost Center": "Government Book",
+   "Counterparty": "T. Rowe Price Group",
+   "Instrument": "IR Swap 0.02% Fixed 0.01% Float 15 Years",
+   "Legal Entity": "NexaSoft Parent, LLC"
+ },
+ {
+   "Account": "376MTL097",
+   "Balance Type": "Funded Interest",
+   "Cost Center": "Investments",
+   "Counterparty": "TD Ameritrade",
+   "Instrument": "IR Swap 0.02% Fixed 0.01% Float 2 Years",
+   "Legal Entity": "NexaSoft Principal Lending, LLC"
+ },
+ {
+   "Account": "376NTG098",
+   "Balance Type": "Income Fee P&L",
+   "Cost Center": "Legal",
+   "Counterparty": "UBS AG",
+   "Instrument": "IR Swap 0.02% Fixed 0.01% Float 25 Years",
+   "Legal Entity": "NexaSoft Spain"
+ },
+ {
+   "Account": "376NTG099",
+   "Balance Type": "Interest Payable",
+   "Cost Center": "Loan Management",
+   "Counterparty": "Vanguard Group Inc.",
+   "Instrument": "IR Swap 0.02% Fixed 0.02% Float 15 Years",
+   "Legal Entity": "NexaSoft TK"
+ },
+ {
+   "Account": "376NTG100",
+   "Balance Type": "Other Liabilities",
+   "Cost Center": "NSNA Equity Options",
+   "Counterparty": "Vargus Limited Partners",
+   "Instrument": "IR Swap 0.02% Fixed 0.02% Float 2 Years",
+   "Legal Entity": "NS Group"
+ },
+ {
+   "Account": "376NTG101",
+   "Balance Type": "Pending Market Value",
+   "Cost Center": "NSNA Index Options",
+   "Counterparty": "Wells Fargo & Company",
+   "Instrument": "IR Swap 0.02% Fixed 0.02% Float 25 Years",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "376NTG102",
+   "Balance Type": "Quantity",
+   "Cost Center": "NSNA Trading Unit",
+   "Counterparty": "Apex Financial Group",
+   "Instrument": "IR Swap 0.02% Fixed 0.03% Float 10 Years",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "376NTG104",
+   "Balance Type": "Realized Balance Sheet",
+   "Cost Center": "Operations",
+   "Counterparty": "Apex Inc.",
+   "Instrument": "IR Swap 0.02% Fixed 0.03% Float 15 Years",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "376NTG106",
+   "Balance Type": "Realized Fee P&L",
+   "Cost Center": "Over Head",
+   "Counterparty": "Bank of America Corporation",
+   "Instrument": "IR Swap 0.02% Fixed 0.03% Float 2 Years",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "376NTG108",
+   "Balance Type": "Realized P&L",
+   "Cost Center": "PUBFIN",
+   "Counterparty": "Bank Of New York",
+   "Instrument": "IR Swap 0.02% Fixed 0.03% Float 25 Years",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "376NTG109",
+   "Balance Type": "Settlement Date Quantity",
+   "Cost Center": "Trusts Cons",
+   "Counterparty": "Barclays Bank PLC",
+   "Instrument": "IR Swap 0.02% Fixed 0.04% Float 10 Years",
+   "Legal Entity": "NexaSoft HK"
+ },
+ {
+   "Account": "386MTF087",
+   "Balance Type": "TD Market Value",
+   "Cost Center": "USD Options",
+   "Counterparty": "BlackRock Inc.",
+   "Instrument": "IR Swap 0.02% Fixed 0.04% Float 2 Years",
+   "Legal Entity": "NexaSoft Limited Partners"
+ },
+ {
+   "Account": "386MTF088",
+   "Balance Type": "TD Quantity",
+   "Cost Center": "USD Structured Swaps",
+   "Counterparty": "BNP Paribas SA",
+   "Instrument": "IR Swap 0.03% Fixed 0.01% Float 10 Years",
+   "Legal Entity": "NexaSoft North America"
+ },
+ {
+   "Account": "386MTF089",
+   "Balance Type": "Unrealized Coupon",
+   "Cost Center": "Agency Desk",
+   "Counterparty": "Charles Schwab Corporation",
+   "Instrument": "IR Swap 0.03% Fixed 0.01% Float 2 Years",
+   "Legal Entity": "NexaSoft Parent, LLC"
+ },
+ {
+   "Account": "386MTF091",
+   "Balance Type": "Unrealized P&L",
+   "Cost Center": "Asset Management",
+   "Counterparty": "Citigroup Inc.",
+   "Instrument": "IR Swap 0.03% Fixed 0.01% Float 25 Years",
+   "Legal Entity": "NexaSoft Principal Lending, LLC"
+ },
+ {
+   "Account": "386MTF092",
+   "Balance Type": "Acquirer Fee",
+   "Cost Center": "Callables",
+   "Counterparty": "Credit Suisse Group AG",
+   "Instrument": "IR Swap 0.03% Fixed 0.02% Float 10 Years",
+   "Legal Entity": "NexaSoft Spain"
+ },
+ {
+   "Account": "386MTL093",
+   "Balance Type": "Available Balance",
+   "Cost Center": "CDO Arbitrage",
+   "Counterparty": "Deutsche Bank AG",
+   "Instrument": "IR Swap 0.03% Fixed 0.02% Float 15 Years",
+   "Legal Entity": "NexaSoft TK"
+ },
+ {
+   "Account": "386MTL094",
+   "Balance Type": "Cash",
+   "Cost Center": "CMBS Credit",
+   "Counterparty": "E*TRADE Financial Corporation",
+   "Instrument": "IR Swap 0.03% Fixed 0.02% Float 2 Years",
+   "Legal Entity": "NS Group"
+ },
+ {
+   "Account": "386MTL095",
+   "Balance Type": "Cost",
+   "Cost Center": "Comm Op Asset Finance",
+   "Counterparty": "Fidelity Investments",
+   "Instrument": "IR Swap 0.03% Fixed 0.02% Float 25 Years",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "386MTL096",
+   "Balance Type": "Expense Payable",
+   "Cost Center": "Commodities Trading",
+   "Counterparty": "Goldman Sachs & Co.",
+   "Instrument": "IR Swap 0.03% Fixed 0.03% Float 10 Years",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "386MTL097",
+   "Balance Type": "Funded Interest",
+   "Cost Center": "Compliance",
+   "Counterparty": "HSBC Holdings PLC",
+   "Instrument": "IR Swap 0.03% Fixed 0.03% Float 2 Years",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "386NTG099",
+   "Balance Type": "Income Fee P&L",
+   "Cost Center": "Cost Plus Ap",
+   "Counterparty": "Independent Group Inc.",
+   "Instrument": "IR Swap 0.03% Fixed 0.03% Float 25 Years",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "386NTG101",
+   "Balance Type": "Interest Payable",
+   "Cost Center": "Cost Plus Mw",
+   "Counterparty": "ING Group NV",
+   "Instrument": "IR Swap 0.03% Fixed 0.04% Float 10 Years",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "386NTG102",
+   "Balance Type": "Other Liabilities",
+   "Cost Center": "Credit Analytics",
+   "Counterparty": "JPMorgan Chase & Co.",
+   "Instrument": "IR Swap 0.03% Fixed 0.04% Float 2 Years",
+   "Legal Entity": "NexaSoft HK"
+ },
+ {
+   "Account": "386NTG103",
+   "Balance Type": "Pending Market Value",
+   "Cost Center": "Derivatives Mmd Book",
+   "Counterparty": "Liberty Partners",
+   "Instrument": "IR Swap 0.04% Fixed 0.01% Float 10 Years",
+   "Legal Entity": "NexaSoft Limited Partners"
+ },
+ {
+   "Account": "386NTG104",
+   "Balance Type": "Quantity",
+   "Cost Center": "Finance",
+   "Counterparty": "Millennium Asset Management",
+   "Instrument": "IR Swap 0.04% Fixed 0.01% Float 15 Years",
+   "Legal Entity": "NexaSoft North America"
+ },
+ {
+   "Account": "386NTG105",
+   "Balance Type": "Realized Balance Sheet",
+   "Cost Center": "Flex Book Owners",
+   "Counterparty": "Monticello Investments",
+   "Instrument": "IR Swap 0.04% Fixed 0.01% Float 2 Years",
+   "Legal Entity": "NexaSoft Parent, LLC"
+ },
+ {
+   "Account": "386NTG106",
+   "Balance Type": "Realized Fee P&L",
+   "Cost Center": "FX Trading",
+   "Counterparty": "Morgan Stanley & Co.",
+   "Instrument": "IR Swap 0.04% Fixed 0.01% Float 25 Years",
+   "Legal Entity": "NexaSoft Principal Lending, LLC"
+ },
+ {
+   "Account": "386NTG107",
+   "Balance Type": "Realized P&L",
+   "Cost Center": "Government Book",
+   "Counterparty": "Nexus Incorporated",
+   "Instrument": "IR Swap 0.04% Fixed 0.02% Float 10 Years",
+   "Legal Entity": "NexaSoft Spain"
+ },
+ {
+   "Account": "386NTG108",
+   "Balance Type": "Settlement Date Quantity",
+   "Cost Center": "Investments",
+   "Counterparty": "Pacific Capital Group",
+   "Instrument": "IR Swap 0.04% Fixed 0.02% Float 15 Years",
+   "Legal Entity": "NexaSoft TK"
+ },
+ {
+   "Account": "386NTG109",
+   "Balance Type": "TD Market Value",
+   "Cost Center": "Legal",
+   "Counterparty": "Pioneer Capital Partners",
+   "Instrument": "IR Swap 0.04% Fixed 0.02% Float 2 Years",
+   "Legal Entity": "NS Group"
+ },
+ {
+   "Account": "386NTG110",
+   "Balance Type": "TD Quantity",
+   "Cost Center": "Loan Management",
+   "Counterparty": "Santander Bank",
+   "Instrument": "IR Swap 0.04% Fixed 0.02% Float 25 Years",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "ACC000001",
+   "Balance Type": "Unrealized Coupon",
+   "Cost Center": "NSNA Equity Options",
+   "Counterparty": "Societe Generale SA",
+   "Instrument": "IR Swap 0.04% Fixed 0.03% Float 10 Years",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "ACC000002",
+   "Balance Type": "Unrealized P&L",
+   "Cost Center": "NSNA Index Options",
+   "Counterparty": "Sterling Partners",
+   "Instrument": "IR Swap 0.04% Fixed 0.03% Float 15 Years",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "ACC000003",
+   "Balance Type": "Acquirer Fee",
+   "Cost Center": "NSNA Trading Unit",
+   "Counterparty": "Summit Partners",
+   "Instrument": "IR Swap 0.04% Fixed 0.03% Float 2 Years",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "ACC000004",
+   "Balance Type": "Available Balance",
+   "Cost Center": "Operations",
+   "Counterparty": "T. Rowe Price Group",
+   "Instrument": "IR Swap 0.04% Fixed 0.03% Float 25 Years",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "ACC000010",
+   "Balance Type": "Cash",
+   "Cost Center": "Over Head",
+   "Counterparty": "TD Ameritrade",
+   "Instrument": "IR Swap 0.04% Fixed 0.04% Float 15 Years",
+   "Legal Entity": "NexaSoft HK"
+ },
+ {
+   "Account": "ACC000011",
+   "Balance Type": "Cost",
+   "Cost Center": "PUBFIN",
+   "Counterparty": "UBS AG",
+   "Instrument": "IR Swap 0.04% Fixed 0.04% Float 2 Years",
+   "Legal Entity": "NexaSoft Limited Partners"
+ },
+ {
+   "Account": "ACC000012",
+   "Balance Type": "Expense Payable",
+   "Cost Center": "Trusts Cons",
+   "Counterparty": "Vanguard Group Inc.",
+   "Instrument": "IR Swap 0.04% Fixed 0.04% Float 25 Years",
+   "Legal Entity": "NexaSoft North America"
+ },
+ {
+   "Account": "ACC000013",
+   "Balance Type": "Funded Interest",
+   "Cost Center": "USD Options",
+   "Counterparty": "Vargus Limited Partners",
+   "Instrument": "Ireland Government Bond UCITS ETF",
+   "Legal Entity": "NexaSoft Parent, LLC"
+ },
+ {
+   "Account": "ACC000014",
+   "Balance Type": "Income Fee P&L",
+   "Cost Center": "USD Structured Swaps",
+   "Counterparty": "Wells Fargo & Company",
+   "Instrument": "IVI Rma Global SL - Private Equity (Held Through Inception Aggregator L.P.) - 2023",
+   "Legal Entity": "NexaSoft Principal Lending, LLC"
+ },
+ {
+   "Account": "ACC00071",
+   "Balance Type": "Interest Payable",
+   "Cost Center": "Agency Desk",
+   "Counterparty": "Apex Financial Group",
+   "Instrument": "JKEM Security",
+   "Legal Entity": "NexaSoft Spain"
+ },
+ {
+   "Account": "ACC071007",
+   "Balance Type": "Other Liabilities",
+   "Cost Center": "Asset Management",
+   "Counterparty": "Apex Inc.",
+   "Instrument": "JPMorgan Liquidity Funds - USD Liquidity LVNAV Fund - JPMULCD LX MMF",
+   "Legal Entity": "NexaSoft TK"
+ },
+ {
+   "Account": "ACC071008",
+   "Balance Type": "Pending Market Value",
+   "Cost Center": "Callables",
+   "Counterparty": "Bank of America Corporation",
+   "Instrument": "KHRW Debt",
+   "Legal Entity": "NS Group"
+ },
+ {
+   "Account": "ACC081210",
+   "Balance Type": "Quantity",
+   "Cost Center": "CDO Arbitrage",
+   "Counterparty": "Bank Of New York",
+   "Instrument": "KnowBe4 Inc - Private Equity (Held Through Knowledge Investors L.P.) - 2023",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "ACC081278",
+   "Balance Type": "Realized Balance Sheet",
+   "Cost Center": "CMBS Credit",
+   "Counterparty": "Barclays Bank PLC",
+   "Instrument": "KOIZ Security",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "ACC081279",
+   "Balance Type": "Realized Fee P&L",
+   "Cost Center": "Comm Op Asset Finance",
+   "Counterparty": "BlackRock Inc.",
+   "Instrument": "Lamborghini UCITS ETF",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "ACC088773",
+   "Balance Type": "Realized P&L",
+   "Cost Center": "Commodities Trading",
+   "Counterparty": "BNP Paribas SA",
+   "Instrument": "LSIF Bond",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "ACC088774",
+   "Balance Type": "Settlement Date Quantity",
+   "Cost Center": "Compliance",
+   "Counterparty": "Charles Schwab Corporation",
+   "Instrument": "MATP Bond",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "ACC088775",
+   "Balance Type": "TD Market Value",
+   "Cost Center": "Cost Plus Ap",
+   "Counterparty": "Citigroup Inc.",
+   "Instrument": "MHFA Security",
+   "Legal Entity": "NexaSoft HK"
+ },
+ {
+   "Account": "ACC094256",
+   "Balance Type": "TD Quantity",
+   "Cost Center": "Cost Plus Mw",
+   "Counterparty": "Credit Suisse Group AG",
+   "Instrument": "Ness Technologies Inc - Private Equity (Held Through Merseyside Asia Holdings I Pte. Ltd) - Main",
+   "Legal Entity": "NexaSoft Limited Partners"
+ },
+ {
+   "Account": "ACC094257",
+   "Balance Type": "Unrealized Coupon",
+   "Cost Center": "Credit Analytics",
+   "Counterparty": "Deutsche Bank AG",
+   "Instrument": "NetSpi Inc - Private Equity (Held Through Spy Aggregator II L.P.) - 2022",
+   "Legal Entity": "NexaSoft North America"
+ },
+ {
+   "Account": "ACC100010",
+   "Balance Type": "Unrealized P&L",
+   "Cost Center": "Derivatives Mmd Book",
+   "Counterparty": "E*TRADE Financial Corporation",
+   "Instrument": "New Company Investments XYZ LTD Fund Hedged",
+   "Legal Entity": "NexaSoft Parent, LLC"
+ },
+ {
+   "Account": "ACC100011",
+   "Balance Type": "Acquirer Fee",
+   "Cost Center": "Finance",
+   "Counterparty": "Fidelity Investments",
+   "Instrument": "NJXA Debt",
+   "Legal Entity": "NexaSoft Principal Lending, LLC"
+ },
+ {
+   "Account": "ACC100012",
+   "Balance Type": "Available Balance",
+   "Cost Center": "Flex Book Owners",
+   "Counterparty": "Goldman Sachs & Co.",
+   "Instrument": "NSTR001",
+   "Legal Entity": "NexaSoft Spain"
+ },
+ {
+   "Account": "ACC100013",
+   "Balance Type": "Cash",
+   "Cost Center": "FX Trading",
+   "Counterparty": "HSBC Holdings PLC",
+   "Instrument": "NYTV Debt",
+   "Legal Entity": "NexaSoft TK"
+ },
+ {
+   "Account": "ACC100014",
+   "Balance Type": "Cost",
+   "Cost Center": "Government Book",
+   "Counterparty": "Independent Group Inc.",
+   "Instrument": "PHFA Security",
+   "Legal Entity": "NS Group"
+ },
+ {
+   "Account": "ACC118587",
+   "Balance Type": "Expense Payable",
+   "Cost Center": "Investments",
+   "Counterparty": "ING Group NV",
+   "Instrument": "Porche Global Funds ICAV - Global Government Bond UCITS ETF",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "ACC118589",
+   "Balance Type": "Funded Interest",
+   "Cost Center": "Legal",
+   "Counterparty": "JPMorgan Chase & Co.",
+   "Instrument": "Prime AGGREGATOR LIQ DAC PPN",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "ACC153185",
+   "Balance Type": "Income Fee P&L",
+   "Cost Center": "Loan Management",
+   "Counterparty": "Liberty Partners",
+   "Instrument": "Privy Identitas Digital PT - Private Equity (Held Through Prune Asia Holdings I Pte. Ltd.) - Main",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "ACC204612",
+   "Balance Type": "Interest Payable",
+   "Cost Center": "NSNA Equity Options",
+   "Counterparty": "Millennium Asset Management",
+   "Instrument": "PXRU Security",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "ACC267176",
+   "Balance Type": "Other Liabilities",
+   "Cost Center": "NSNA Index Options",
+   "Counterparty": "Monticello Investments",
+   "Instrument": "QFCI Security",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "ACC281741",
+   "Balance Type": "Pending Market Value",
+   "Cost Center": "NSNA Trading Unit",
+   "Counterparty": "Morgan Stanley & Co.",
+   "Instrument": "QHFA Security",
+   "Legal Entity": "NexaSoft HK"
+ },
+ {
+   "Account": "ACC301298",
+   "Balance Type": "Quantity",
+   "Cost Center": "Operations",
+   "Counterparty": "Nexus Incorporated",
+   "Instrument": "QuickCash Consumer Loan",
+   "Legal Entity": "NexaSoft Limited Partners"
+ },
+ {
+   "Account": "ACC331282",
+   "Balance Type": "Realized Balance Sheet",
+   "Cost Center": "Over Head",
+   "Counterparty": "Pacific Capital Group",
+   "Instrument": "RDUP Debt",
+   "Legal Entity": "NexaSoft North America"
+ },
+ {
+   "Account": "ACC347880",
+   "Balance Type": "Realized Fee P&L",
+   "Cost Center": "PUBFIN",
+   "Counterparty": "Pioneer Capital Partners",
+   "Instrument": "Restaurant365 LLC - Private Equity (Held Through Radiant Aggregator L.P.) - Main",
+   "Legal Entity": "NexaSoft Parent, LLC"
+ },
+ {
+   "Account": "ACC366640",
+   "Balance Type": "Realized P&L",
+   "Cost Center": "Trusts Cons",
+   "Counterparty": "Santander Bank",
+   "Instrument": "RHHE Debt",
+   "Legal Entity": "NexaSoft Principal Lending, LLC"
+ },
+ {
+   "Account": "ACC481962",
+   "Balance Type": "Settlement Date Quantity",
+   "Cost Center": "USD Options",
+   "Counterparty": "Societe Generale SA",
+   "Instrument": "RRNV Security",
+   "Legal Entity": "NexaSoft Spain"
+ },
+ {
+   "Account": "ACC518512",
+   "Balance Type": "TD Market Value",
+   "Cost Center": "USD Structured Swaps",
+   "Counterparty": "Sterling Partners",
+   "Instrument": "Swiss Franc",
+   "Legal Entity": "NexaSoft TK"
+ },
+ {
+   "Account": "ACC546743",
+   "Balance Type": "TD Quantity",
+   "Cost Center": "Agency Desk",
+   "Counterparty": "Summit Partners",
+   "Instrument": "Swiss Franc Payable",
+   "Legal Entity": "NS Group"
+ },
+ {
+   "Account": "ACC566117",
+   "Balance Type": "Unrealized Coupon",
+   "Cost Center": "Asset Management",
+   "Counterparty": "T. Rowe Price Group",
+   "Instrument": "T-Bond Futures, 10-20 years",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "ACC593380",
+   "Balance Type": "Unrealized P&L",
+   "Cost Center": "Callables",
+   "Counterparty": "TD Ameritrade",
+   "Instrument": "T-Bond Futures, 20Yr",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "ACC593381",
+   "Balance Type": "Acquirer Fee",
+   "Cost Center": "CDO Arbitrage",
+   "Counterparty": "UBS AG",
+   "Instrument": "T-Bond Futures, 2-10 years",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "ACC594211",
+   "Balance Type": "Available Balance",
+   "Cost Center": "CMBS Credit",
+   "Counterparty": "Vanguard Group Inc.",
+   "Instrument": "T-Bond Futures, 2Yr Contract",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "ACC608206",
+   "Balance Type": "Cash",
+   "Cost Center": "Comm Op Asset Finance",
+   "Counterparty": "Vargus Limited Partners",
+   "Instrument": "T-Bond Futures, 5-15 years",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "ACC623287",
+   "Balance Type": "Cost",
+   "Cost Center": "Commodities Trading",
+   "Counterparty": "Wells Fargo & Company",
+   "Instrument": "TEST",
+   "Legal Entity": "NexaSoft HK"
+ },
+ {
+   "Account": "ACC707929",
+   "Balance Type": "Expense Payable",
+   "Cost Center": "Compliance",
+   "Counterparty": "Apex Financial Group",
+   "Instrument": "Test Instrument ID1",
+   "Legal Entity": "NexaSoft Limited Partners"
+ },
+ {
+   "Account": "ACC710067",
+   "Balance Type": "Funded Interest",
+   "Cost Center": "Cost Plus Ap",
+   "Counterparty": "Apex Inc.",
+   "Instrument": "Test Instrument ID2",
+   "Legal Entity": "NexaSoft North America"
+ },
+ {
+   "Account": "ACC789087",
+   "Balance Type": "Income Fee P&L",
+   "Cost Center": "Cost Plus Mw",
+   "Counterparty": "Bank of America Corporation",
+   "Instrument": "TEST1",
+   "Legal Entity": "NexaSoft Parent, LLC"
+ },
+ {
+   "Account": "ACC839672",
+   "Balance Type": "Interest Payable",
+   "Cost Center": "Credit Analytics",
+   "Counterparty": "Bank Of New York",
+   "Instrument": "TGUN Security",
+   "Legal Entity": "NexaSoft Principal Lending, LLC"
+ },
+ {
+   "Account": "ACC872701",
+   "Balance Type": "Other Liabilities",
+   "Cost Center": "Derivatives Mmd Book",
+   "Counterparty": "Barclays Bank PLC",
+   "Instrument": "THFA Security",
+   "Legal Entity": "NexaSoft Spain"
+ },
+ {
+   "Account": "ACC872710",
+   "Balance Type": "Pending Market Value",
+   "Cost Center": "Finance",
+   "Counterparty": "BlackRock Inc.",
+   "Instrument": "U.S. Dollars",
+   "Legal Entity": "NexaSoft TK"
+ },
+ {
+   "Account": "ACC895449",
+   "Balance Type": "Quantity",
+   "Cost Center": "Flex Book Owners",
+   "Counterparty": "BNP Paribas SA",
+   "Instrument": "U.S. Dollars Cash OnHand",
+   "Legal Entity": "NS Group"
+ },
+ {
+   "Account": "ACC906498",
+   "Balance Type": "Realized Balance Sheet",
+   "Cost Center": "FX Trading",
+   "Counterparty": "Charles Schwab Corporation",
+   "Instrument": "U.S. Dollars Forward",
+   "Legal Entity": "101 NS Inc"
+ },
+ {
+   "Account": "ACC921703",
+   "Balance Type": "Realized Fee P&L",
+   "Cost Center": "Government Book",
+   "Counterparty": "Citigroup Inc.",
+   "Instrument": "U.S. Dollars Payable",
+   "Legal Entity": "NexaSoft Delaware Trust"
+ },
+ {
+   "Account": "ACC939480",
+   "Balance Type": "Realized P&L",
+   "Cost Center": "Investments",
+   "Counterparty": "Credit Suisse Group AG",
+   "Instrument": "U.S. Dollars Receivable",
+   "Legal Entity": "NexaSoft Europe"
+ },
+ {
+   "Account": "ACC949770",
+   "Balance Type": "Settlement Date Quantity",
+   "Cost Center": "Legal",
+   "Counterparty": "Deutsche Bank AG",
+   "Instrument": "VGJQ Debt",
+   "Legal Entity": "NexaSoft France"
+ },
+ {
+   "Account": "ACC94977B",
+   "Balance Type": "TD Market Value",
+   "Cost Center": "Loan Management",
+   "Counterparty": "E*TRADE Financial Corporation",
+   "Instrument": "Wind Turbin Climate Net Zero UCITS ETF",
+   "Legal Entity": "NexaSoft Greece"
+ },
+ {
+   "Account": "ACC961337",
+   "Balance Type": "TD Quantity",
+   "Cost Center": "NSNA Equity Options",
+   "Counterparty": "Fidelity Investments",
+   "Instrument": "WRFX Bond",
+   "Legal Entity": "NexaSoft HK"
+ }
+]
